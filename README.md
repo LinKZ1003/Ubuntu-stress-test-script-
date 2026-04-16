@@ -44,7 +44,7 @@
 ```bash
 git clone https://github.com/LinKZ1003/server-bench.git
 cd server-bench
-sudo python3 autoOCMIMO.py
+sudo python3 autoOCMIMO.py --all
 ```
 
 ### 交互模式（推荐新手）
